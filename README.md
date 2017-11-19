@@ -13,6 +13,32 @@ STEPS INCLUDED :
  4.Increase readability.
  
  REQUIREMENTS
- 
- 
-    
+   1. Install nltk.
+   2. Install Stanford Parser
+   3. Install numpy
+   4. Install keras
+   5. Install vaderSentiment
+   6. Install twython
+   7. Install tensorflow
+   8. Install scikit-learn
+   9. Download a dataset for analysis.
+   
+   Run svo-senti.py as python3 svo-senti.py.
+    This will produce the svo triplets for each sentence. Each triplet pair of the sentence is given to method for sentimental analysis where sentimental analysis is performed on the SVOs using vaderSentiment tool.
+     The output will be displayed as polarity scores for each sentence.
+     
+SAMPLE 
+ Input: The place is fine.
+ Output: The place is fine.
+         SVO : {'place','is','fine'}
+         Noun phrase:
+         The place
+         polarity scores:
+         compound: 0.2023
+         neg:0.0
+         pos:0.375
+         
+        
+         
+       
+      
