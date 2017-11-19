@@ -1,0 +1,30 @@
+|",
+"The place is not easy to locate",
+"Mushroom fried rice was tasty"| |[('place', 'is', None), ('fried', 'was', None), ('rice', 'was', None)]| |,The place,rice| -0.3412 0.167 0.833 0.0
+|",
+"The place is not easy to locate",
+"Mushroom fried rice was tasty"| |[('place', 'is', None), ('fried', 'was', None), ('rice', 'was', None)]| |,The place,rice| -0.3412 0.167 0.833 0.0
+|",
+"The place is not easy to locate",
+"Mushroom fried rice was tasty"| |[('place', 'is', None), ('fried', 'was', None), ('rice', 'was', None)]| |,The place,rice| -0.3412 0.167 0.833 0.0
+|The place is not easy to locate
+Mushroom fried rice was tasty| |[('place', 'is', None), ('rice', 'was', None)]| |,The place,Mushroom,fried rice| -0.3412 0.179 0.821 0.0
+|CALL CENTER EXECUTIVES ONLY PACIFIES THE CUSTOMERS AND GIVES FALSE PROMISES.| [] |,CALL CENTER EXECUTIVES ONLY PACIFIES,THE CUSTOMERS AND GIVES FALSE PROMISES| 0.3818 0.0 0.794 0.206
+|The place is very nice.| |[('place', 'is', None)]| |,The place| 0.4754 0.0 0.564 0.436
+|The place is fine.| |[('place', 'is', None)]| |,The place| 0.2023 0.0 0.625 0.375
+|The place is fine.| |[('place', 'is', None)]| |,The place| 0.2023 0.0 0.625 0.375
+|The food is not good.| |[('food', 'is', None)]| |,The food| -0.3412 0.376 0.624 0.0
+|The price is very high.| |[('price', 'is', None)]| |,The price| 0.0 0.0 1.0 0.0
+|Customer service is bad.| |[('service', 'is', None)]| |,Customer service| -0.5423 0.538 0.462 0.0
+|Good ambience.| [] |,Good ambience| 0.4404 0.0 0.256 0.744
+|The place is fine.| |[('place', 'is', None)]| |,The place| 0.2023 0.0 0.625 0.375
+|The food is not good.| |[('food', 'is', None)]| |,The food| -0.3412 0.376 0.624 0.0
+|The price is very high.| |[('price', 'is', None)]| |,The price| 0.0 0.0 1.0 0.0
+|Customer service is bad.| |[('service', 'is', None)]| |,Customer service| -0.5423 0.538 0.462 0.0
+|Good ambience.| [] |,Good ambience| 0.4404 0.0 0.256 0.744
+|The place is fine.| |[('place', 'is', None)]| |,The place| 0.2023 0.0 0.625 0.375
+|The place is fine.| |[('place', 'is', None)]| |,The place| 0.2023 0.0 0.625 0.375
+|The food is not good.| |[('food', 'is', None)]| |,The food| -0.3412 0.376 0.624 0.0
+|The price is very high.| |[('price', 'is', None)]| |,The price| 0.0 0.0 1.0 0.0
+|Customer service is bad.| |[('service', 'is', None)]| |,Customer service| -0.5423 0.538 0.462 0.0
+|Good ambience.| [] |,Good ambience| 0.4404 0.0 0.256 0.744
